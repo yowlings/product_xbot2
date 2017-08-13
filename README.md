@@ -1,0 +1,12 @@
+# xbot系列机器人介绍材料
+## 材料内容
+* xbot2机器人产品介绍
+* xbot机器人与市场近品性能指标对比
+* 机器人开源技术联合实验室
+* 科研教学平台xbot
+* 中科院软件所智能服务机器人技术研究
+## 视频链接
+1. [多机器人三维仿真](https://v.qq.com/x/page/c0527bf4tbr.html)
+2. [xbot办公室场景同步定位与地图构建](http://v.qq.com/page/l/j/r/l05274m5gjr.html)
+3. [xbot机器人搭载腾讯优图人脸识别](http://v.qq.com/page/n/q/7/n0524qudvq7.html)
+4. [xbot机器人动态避障效果](http://v.qq.com/page/m/1/9/m05244j0419.html)
