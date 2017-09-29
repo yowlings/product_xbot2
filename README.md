@@ -72,12 +72,13 @@ ROS标准开发支持	|有	|无|	无|	无
 4. [xbot机器人动态避障效果](http://v.qq.com/page/m/1/9/m05244j0419.html)
 
 ## 相关文档教程与应用
-### 机器人驱动包ROS WIKI开源
+### 机器人ROS WIKI开源驱动包
+详见http://wiki.ros.org/Robots/Xbot
 
 ### 机器人配套教程
+详见http://www.droid.ac.cn/ui/college.html
 
-
-### 控制APP
+### APP
 Android：
 
 访问https://fir.im/vuez
