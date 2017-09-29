@@ -84,4 +84,4 @@ Android：
 
 或扫描二维码下载
 
-![xbot](xbotapp.png)
+![xbot](xbotAPP.png)
