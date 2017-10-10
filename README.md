@@ -45,7 +45,7 @@ SSD大小	|512GB|	32GB+256GB|	32GB+128GB
 触控平板|	Android|	Android|	Android|
 视觉模组|高清RGBD|	RGBD|	双目高清
 ### 机器人对比
-| 指标项 |	软件所Xbot	|ZEUS	|速感科技Qbot	|Double
+| 指标项 |	重德智能Xbot	|ZEUS	|速感科技Qbot	|Double
 |-|-|-|-|-|
 标准载重(kg)|	50|	25|	40|	0
 续航时长(h)|	>8|	>8|	4~8|	4
